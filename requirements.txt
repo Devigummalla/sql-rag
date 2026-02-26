@@ -1,0 +1,8 @@
+langchain 
+langgraph 
+langchain-community 
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+sqlite3
+python-dotenv
